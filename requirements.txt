@@ -11,3 +11,6 @@ langchain_experimental
 playwright
 tiktoken
 fastapi
+chromadb
+langchain_openai
+langchainhub
